@@ -1,0 +1,8 @@
+.note-counter {
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  top: 110px;  /* 10px from the bottom */
+  left: 50px;   /* 10px from the right */
+}

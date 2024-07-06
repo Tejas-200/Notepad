@@ -1,0 +1,16 @@
+.top-bar {
+    background-color: #d79511;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    left: 0;
+  }
+  
+.top-bar h1 {
+    margin: 0;
+  }
+  
